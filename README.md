@@ -1,2 +1,2 @@
 # atelier_arhn
-This project is about ...
+This project is about producing FAIR data.
