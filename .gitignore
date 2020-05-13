@@ -133,3 +133,4 @@ dmypy.json
 
 exported_pictures/
 *.xls
+*.sqlite
